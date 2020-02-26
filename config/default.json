@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://gbalyan:balyan@clusterconnector-qvakz.mongodb.net/devconnector?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "7aec56094fa62c4a5163",
+    "githubSecret": "eb114cd89db765f883f9b97485059fa477a99ad1" 
+}
